@@ -9,12 +9,7 @@ Stable tag: trunk
 
 == Description ==
 
-If your wordpress blog has a better page rank, here is a better chance to reveal it to your blog readers. That is Wordpress Page Rank Plugin Show-My-PageRank.
-
-What you want to do is just download this plugin and activate it. All of your wordpress post automatically tagged with your google page rank. This will increase your readers interest. More page ranked articles / post get more readership. Just try.
-
-
-
+If your wordpress blog has a better page rank, here is a better chance to reveal it to your blog readers. That is Wordpress Page Rank Plugin Show-My-PageRank. What you want to do is just download this plugin and activate it. All of your wordpress post automatically tagged with your google page rank. This will increase your readers interest. More page ranked articles / post get more readership. Just try.
 
 
 == Installation ==
@@ -23,8 +18,7 @@ What you want to do is just download this plugin and activate it. All of your wo
 1. Upload Show-My-PageRank directory (containing Show-My-PageRank.php file with image files in pr directory) to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-You can also add your page rank any where in your blog by 
-` <?php wp_show_my_pagerank() ?>
+You can also add your page rank any where in your blog by <?php wp_show_my_pagerank() ?>
 
 
 == Frequently Asked Questions ==
@@ -40,7 +34,7 @@ Make sure the path to main plugin file is  /wp-content/plugins/Show-My-PageRank/
 
 == Screenshots ==
 
-1.Post showing page rank on top right corner
+1. Post showing page rank on top right corner
 2. Option window
 3. Page showing page rank
 4. Page Rank image
