@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Show-My-PageRank
-Plugin URI: http://www.sajithmr.com
-Description: This Plugin shows your website's google pagerank on each of your url / pages
+Plugin URI: http://www.sajithmr.com/wordpress-page-rank-plugin/
+Description: If your wordpress blog has a better page rank, here is a better chance to reveal it to your blog readers. That is Wordpress Page Rank Plugin Show-My-PageRank. What you want to do is just download this plugin and activate it. All of your wordpress post automatically tagged with your google page rank. This will increase your readers interest. More page ranked articles / post get more readership. Just try.
 Version: 1.0
 Author: Sajith
 Author URI: http://www.sajithmr.com
