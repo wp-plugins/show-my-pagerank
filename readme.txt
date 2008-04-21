@@ -18,7 +18,7 @@ If your wordpress blog has a better page rank, here is a better chance to reveal
 1. Upload Show-My-PageRank directory (containing Show-My-PageRank.php file with image files in pr directory) to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-You can also add your page rank any where in your blog by <?php wp_show_my_pagerank() ?>
+You can also add your page rank any where in your blog by `<?php wp_show_my_pagerank() ?>`
 
 
 == Frequently Asked Questions ==
