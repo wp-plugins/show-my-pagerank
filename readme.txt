@@ -47,7 +47,7 @@ Make sure the path to main plugin file is  /wp-content/plugins/Show-My-PageRank/
 
 == Screenshots ==
 
-1. Post showing page rank on top right corner
+1. screen shot
 
 == Arbitrary section ==
 
