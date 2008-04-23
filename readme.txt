@@ -14,14 +14,18 @@ Plugin which exposing your page rank to your blog/site readers. You can configur
 If your wordpress blog has a better page rank, here is a better chance to reveal it to your blog readers. That is Wordpress Page Rank Plugin Show-My-PageRank. What you want to do is just download this plugin and activate it. All of your wordpress post automatically tagged with your google page rank. This will increase your readers interest. More page ranked articles / post get more readership. Just try. Remember , you DON'T need to enter your page rank manually; This plugin automatically pull up your page rank directly from server each time (Live Results)
 
 
+You can also add your page rank any where in your blog by `<?php wp_show_my_pagerank() ?>`
+
 Features:
 
 * Live Page Rank : You need not to specify your page rank. Plugin automatically checks google server each time
 * Cute Page Rank Show : Greenish-white combination 
 * Fast loading : It never affect your normal page loading speed
 * Auto Embedding : All of your post automattically get embedded with its page rank (You can also disable this)
-* Replicable : You can place your page rank anywhere as you wish
+* Replaceable : You can place your page rank anywhere as you wish
 * Readablity : Your user get more enthusiasm when he/she read your blog post if you have better pager rank for that post
+
+If your plugin is  not working , please mail to admin@sajithmr.com
 
 **For details please visit :** http://www.sajithmr.com/wordpress-page-rank-plugin/
 
@@ -32,6 +36,7 @@ Features:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 You can also add your page rank any where in your blog by `<?php wp_show_my_pagerank() ?>`
+
 
 
 == Frequently Asked Questions ==
