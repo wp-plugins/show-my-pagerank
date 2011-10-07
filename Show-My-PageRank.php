@@ -37,7 +37,7 @@ function wp_show_my_pagerank()
 			
 			$pr_out_template = '<table border="0" >
 				  <tr>
-					<td><a href="http://www.sajithmr.com/wordpress-page-rank-plugin/"><img src="'.get_option('siteurl').'/wp-content/plugins/show-my-pagerank/pr/'.$img.'"  style="border: 1px solid #cccccc" width="'.get_option('my_pagerank_picture_width').'"></a></td>
+					<td><a href="http://www.sajithmr.me/wordpress-page-rank-plugin/"><img src="'.get_option('siteurl').'/wp-content/plugins/show-my-pagerank/pr/'.$img.'"  style="border: 1px solid #cccccc" width="'.get_option('my_pagerank_picture_width').'"></a></td>
 				  </tr>
 				  <tr>
 					<td><div align="center"><font color="'. get_option('my_pagerank_text_color').'" size="'.get_option('my_pagerank_font_size').'" face="Arial, Helvetica, sans-serif">Page Rank</font></div></td>
@@ -110,7 +110,7 @@ function append_pagerank($content)
 	{
     $pr_string= '<table border="0" style="float:right">
 				  <tr>
-					<td><a href="http://www.sajithmr.com/wordpress-page-rank-plugin/"><img src="'.get_option('siteurl').'/wp-content/plugins/show-my-pagerank/pr/'.$img.'"  style="border: 1px solid #cccccc" width="'.get_option('my_pagerank_picture_width').'"></a></td>
+					<td><a href="http://www.sajithmr.me/wordpress-page-rank-plugin/"><img src="'.get_option('siteurl').'/wp-content/plugins/show-my-pagerank/pr/'.$img.'"  style="border: 1px solid #cccccc" width="'.get_option('my_pagerank_picture_width').'"></a></td>
 				  </tr>
 				  <tr>
 					<td><div align="center"><font color="'. get_option('my_pagerank_text_color').'" size="'.get_option('my_pagerank_font_size').'" face="Arial, Helvetica, sans-serif">'.get_option('my_pagerank_caption').' </font></div></td>
